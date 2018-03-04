@@ -69,3 +69,7 @@ Take Low visibility event for example
 ## Preview
 
 <img src="https://github.com/zuoweifu/WeatherDriving/blob/master/imgs/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-03-04%20at%2001.20.49.png" width="300" />
+
+## Future implementation
+* Adapt the app to infotainment system
+* Add follow me feature, send notification when user is within certain distance to an event. 
